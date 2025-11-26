@@ -1,0 +1,23 @@
+# Python Dependencies for AI-Powered Content Summarizer
+# Install with: pip install -r requirements.txt
+
+# AWS SDK for Python
+boto3>=1.28.0
+botocore>=1.31.0
+
+# Streamlit Web Framework
+streamlit>=1.28.0
+
+# PDF Processing
+PyPDF2>=3.0.0
+pypdf>=3.0.0
+
+# Document Processing
+python-docx>=0.8.11
+
+# Additional utilities
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Optional: For enhanced file handling
+pillow>=10.0.0
